@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/weatherfrontend/static/css/main.5c7e2f02.css",
-    "main.js": "/weatherfrontend/static/js/main.b81a43e2.js",
+    "main.js": "/weatherfrontend/static/js/main.5b50cbce.js",
     "static/media/logo.svg": "/weatherfrontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/weatherfrontend/index.html",
     "main.5c7e2f02.css.map": "/weatherfrontend/static/css/main.5c7e2f02.css.map",
-    "main.b81a43e2.js.map": "/weatherfrontend/static/js/main.b81a43e2.js.map"
+    "main.5b50cbce.js.map": "/weatherfrontend/static/js/main.5b50cbce.js.map"
   },
   "entrypoints": [
     "static/css/main.5c7e2f02.css",
-    "static/js/main.b81a43e2.js"
+    "static/js/main.5b50cbce.js"
   ]
 }
