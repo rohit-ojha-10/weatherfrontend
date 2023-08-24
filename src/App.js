@@ -76,7 +76,7 @@ function App() {
             onChange={() =>
               setCitiesData({ ...citiesData, city3: city3.current.value })
             }
-            value={citiesData.city2}
+            value={citiesData.city3}
             ref={city3}
             type="text"
           />
